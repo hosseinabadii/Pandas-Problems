@@ -1,0 +1,12 @@
+id,name,department,managerId
+101,John,A,
+102,Dan,A,101
+103,James,B,106
+104,Amy,B,106
+105,Anne,A,101
+106,Luyc,B,
+107,Tom,A,101
+108,Helen,B,106
+109,Ron,A,101
+110,Jose,A,101
+111,Kate,B,106
